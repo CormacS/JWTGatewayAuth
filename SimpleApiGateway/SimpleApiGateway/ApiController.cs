@@ -28,7 +28,7 @@ namespace SimpleApiGateway
         [HttpGet("external-api")]
         public async Task<IActionResult> CallExternalApi()
         {
-            var client = new RestClient("https://meowfacts.herokuapp.com/?count=3"); // Example public API
+            var client = new RestClient("https://meowfacts.herokuapp.com/?count=3");
             var request = new RestRequest("", Method.Get);
             var response = await client.ExecuteAsync(request);
 
