@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "SimpleApiGateway.ApiController",
+    "Method": "CallExternalApi",
+    "RelativePath": "api/external-api",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleApiGateway.ApiController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/generate-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
