@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qxKthNBSsWXZu25yVf7cs3rNvppGbffMDlAy3ix+Go0=",
+  "Source": "SimpleApiGateway",
+  "BasePath": "_content/SimpleApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
